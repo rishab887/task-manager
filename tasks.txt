@@ -1,2 +1,2 @@
-1. Learn Git
-2.Build Projects
+101. Learn Git
+102.Build Projects
